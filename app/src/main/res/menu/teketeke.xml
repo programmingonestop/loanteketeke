@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/make_payment"
+        android:icon="@drawable/ic_action_payment"
+        app:showAsAction="ifRoom"
+        android:id="@+id/payment_schedule"/>
+
+    <item android:title="@string/login_logout"
+        app:showAsAction="ifRoom"
+        android:id="@+id/logOut"
+        android:icon="@drawable/ic_action_lock"/>
+</menu>

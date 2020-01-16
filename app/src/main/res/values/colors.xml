@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorAccent">#07F4DC</color>
+    <color name="window_background">#14305C</color>
+    <color name="sweet_blues">#14255C</color>
+    <color name="text_theme_color">#07F4DC</color>
+    <color name="black_pie">#000</color>
+    <color name="applook_1_color">#07F4DC</color>
+    <color name="blue_ivy">#03bcff</color>
+    <color name="swal">#7C29FF</color>
+    <color name="sweet_orange">#FF2B00</color>
+    <color name="baby_orange">#FF7700</color>
+</resources>
